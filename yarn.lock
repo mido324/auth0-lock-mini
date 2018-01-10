@@ -1827,6 +1827,13 @@ default-gateway@^2.2.2:
     execa "^0.8.0"
     ip-regex "^2.1.0"
 
+default-gateway@^2.6.2:
+  version "2.6.2"
+  resolved "https://registry.yarnpkg.com/default-gateway/-/default-gateway-2.6.2.tgz#c53bce5f464a0fd770abdec095d0aca87406170a"
+  dependencies:
+    execa "^0.8.0"
+    ip-regex "^2.1.0"
+
 default-require-extensions@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/default-require-extensions/-/default-require-extensions-1.0.0.tgz#f37ea15d3e13ffd9b437d33e1a75b5fb97874cb8"
